@@ -1,0 +1,2 @@
+
+        while(current.next != None):
